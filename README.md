@@ -1,2 +1,2 @@
 # First-Repository
-Practic
+Practice
